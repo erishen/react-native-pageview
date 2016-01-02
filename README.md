@@ -1,6 +1,6 @@
 # react-native-pageview
 
-### Example
+### Example1
 
 	var PageView = require('./pageView');
 	var index = 0;

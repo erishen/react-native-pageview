@@ -1,0 +1,24 @@
+{
+  "name": "react-native-pageview",
+  "version": "1.0.1",
+  "description": "Section ListView",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erishen/react-native-pageview.git"
+  },
+  "keywords": [
+    "pageview",
+    "ListView",
+    "Section"
+  ],
+  "author": "Erishen Sun (leisun8309@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erishen/react-native-pageview/issues"
+  },
+  "homepage": "https://github.com/erishen/react-native-pageview#readme"
+}

@@ -1,8 +1,8 @@
 # react-native-pageview
 
-### Example1
+### Example
 
-	var PageView = require('./pageView');
+	var PageView = require('react-native-pageview');
 	var index = 0;
 	var data = [
 	  { id: index++, section: false, name: 'Test1' },

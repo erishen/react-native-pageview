@@ -1,6 +1,6 @@
 {
   "name": "react-native-pageview",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Section ListView",
   "main": "index.js",
   "scripts": {
@@ -12,8 +12,11 @@
   },
   "keywords": [
     "pageview",
-    "ListView",
-    "Section"
+    "section",
+    "ios",
+    "android",
+    "react-native",
+    "react-component"
   ],
   "author": "Erishen Sun (leisun8309@gmail.com)",
   "license": "ISC",
